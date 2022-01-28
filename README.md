@@ -24,3 +24,7 @@ Version 1.0, 1-DEC-2019
 https://github.com/jnkather/ColorDeconvolutionMatlab is based on [2]
 
 https://github.com/mitkovetta/staining-normalization is based on [1]
+
+
+## License
+This tool is available under the GNU General Public License (GPL) (https://www.gnu.org/licenses/gpl-3.0.en.html) and the LGPL (https://www.gnu.org/licenses/lgpl-3.0.en.html).
